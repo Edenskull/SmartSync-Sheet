@@ -3,8 +3,8 @@
 <img alt="Image Banner" src="https://raw.githubusercontent.com/Edenskull/SmartSync-Sheet/master/.github/UI_ASSETS/Banner.jpg?sanitize=true" align="center"/>
 </br>
 <p align="center">
-  <a href="https://github.com/Edenskull/PyLogger/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Edenskull/SmartSync-Sheet.svg"/></a>
-  <a href="https://github.com/Edenskull/PyLogger/issues"><img src="https://img.shields.io/github/issues/SmartSync-Sheet/PyLogger.svg"/></a>
+  <a href="https://github.com/Edenskull/SmartSync-Sheet/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Edenskull/SmartSync-Sheet.svg"/></a>
+  <a href="https://github.com/Edenskull/SmartSync-Sheet/issues"><img src="https://img.shields.io/github/issues/SmartSync-Sheet/SmartSync-Sheet.svg"/></a>
 </p>
 
 ---
