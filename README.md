@@ -4,7 +4,7 @@
 </br>
 <p align="center">
   <a href="https://github.com/Edenskull/SmartSync-Sheet/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Edenskull/SmartSync-Sheet.svg"/></a>
-  <a href="https://github.com/Edenskull/SmartSync-Sheet/issues"><img src="https://img.shields.io/github/issues/SmartSync-Sheet/SmartSync-Sheet.svg"/></a>
+  <a href="https://github.com/Edenskull/SmartSync-Sheet/issues"><img src="https://img.shields.io/github/issues/Edenskull/SmartSync-Sheet.svg"/></a>
 </p>
 
 ---
