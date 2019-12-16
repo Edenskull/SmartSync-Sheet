@@ -1,6 +1,6 @@
 # SmartSync-Sheet
 
-<img alt="Image Banner" src="https://raw.githubusercontent.com/Edenskull/SmartSync-Sheet/master/.github/UI_ASSETS/Banner.jpg?sanitize=true" align="center"/>
+<img alt="Image Banner" src="https://raw.githubusercontent.com/Edenskull/SmartSync-Sheet/master/.github/UI_ASSETS/Banner.jpg" align="center"/>
 </br>
 <p align="center">
   <a href="https://github.com/Edenskull/SmartSync-Sheet/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Edenskull/SmartSync-Sheet.svg"/></a>
