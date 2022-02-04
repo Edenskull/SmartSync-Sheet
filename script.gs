@@ -7,6 +7,7 @@ function run() {
         url, { headers: {Authorization: 'Bearer ' + smartSheetToken}}
     );
     var result = JSON.parse(response.getContentText());
+    var tabResult = [];
     sheet.clear();
     for(var row in result.rows){
         var cells = result.rows[row]["cells"];
@@ -15,6 +16,7 @@ function run() {
             var value = cells[cell]["value"] == undefined ? "" : cells[cell]["value"];
             tab.push(value);
         }
-        sheet.appendRow(tab);
+        tabResult.push(tab);
     }
+    sheet.getRange(1, 1, tabResult.length, tabResult[0].length).setValues(tabResult);
 }
